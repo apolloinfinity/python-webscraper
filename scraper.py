@@ -23,3 +23,4 @@ class Scraper:
 
 news = "https://news.google.com/"
 Scraper(news).scrape()
+
